@@ -1,0 +1,12 @@
+div{
+    font-family: "JetBrains Mono";
+    src: url(./fonts/JetBrainsMono-Regular.woff2);
+    text-color: #003399;
+}
+.my_photo{
+    max-height: 200px;
+}
+a{
+    text-decoration: none;
+    color: #003399;
+}
